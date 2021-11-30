@@ -1,14 +1,14 @@
 {
   "name": "My Token List",
   "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
-  "keywords": [
+  "keywords": [Zaky208012
     "audited",
     "verified",
-    "special tokens"
+    "special tokens"0xDfC9492D94eB55bD67787c8257c335F58f506f61
   ],
   "tags": {
     "stablecoin": {
-      "name": "Stablecoin",
+      "name": "Stablecoin",USDT
       "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
     },
     "compound": {
@@ -19,8 +19,8 @@
   "timestamp": "2020-06-12T00:00:00+00:00",
   "tokens": [
     {
-      "chainId": 1,
-      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "chainId": 2,
+      "address": "0xDfC9492D94eB55bD67787c8257c335F58f506f61",
       "symbol": "USDC",
       "name": "USD Coin",
       "decimals": 6,
@@ -37,7 +37,7 @@
       "decimals": 8,
       "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
       "tags": [
-        "compound"
+        "USDT"
       ]
     }
   ],
